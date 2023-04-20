@@ -1,0 +1,16 @@
+{
+  "prettier.enable": false,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true // eslint fix
+  },
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": false
+  },
+  "less.validate": false,
+  "scss.validate": false,
+  "css.validate": false
+}

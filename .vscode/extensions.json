@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "antfu.iconify", // Iconify IntelliSense
+    "voorjaar.windicss-intellisense", // Windi CSS IntelliSense
+    "formulahendry.auto-complete-tag", // Auto Complete Tag
+    "dbaeumer.vscode-eslint", // ESLint
+    "vue.volar", // Volar
+  ]
+}
